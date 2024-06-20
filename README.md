@@ -1,3 +1,3 @@
 # EmmyLua-AttachDebugger
 
-IntelliJ IDEA  调试Lua插件
+IntelliJ IDEA  EmmyLua调试Lua插件
